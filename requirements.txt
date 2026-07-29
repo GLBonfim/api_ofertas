@@ -1,0 +1,4 @@
+requests
+beatutifulsoup4
+lxml
+python-dotenv
