@@ -1,4 +1,4 @@
 requests
-beatutifulsoup4
+beautifulsoup4
 lxml
 python-dotenv
